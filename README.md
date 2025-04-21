@@ -38,7 +38,7 @@ Bygg dina respektive pages. Skapa gärna komponenter för att göra applikatione
 
 ## Book Store
 
-Nu har det blivit dags att bygga om din Book Store för sista gången, och nu är tanken att vi skall slippa alla props som skickas kors och tvärs genom dina sidor. 
+Nu har det blivit dags att bygga om din Book Store för sista gången, och nu är tanken att vi skall slippa alla props som skickas kors och tvärs genom dina sidor. Här är vi ganska snabbt uppe på en ganska avancerad nivå (vilket kommer krävas i examinationen), så om ni inte riktigt greppar hur funktionerna i era stores bör byggas så tycker jag det är okej att ta hjälp av AI förutsatt att ni lär er och förstår er kod.
 
 **Steg 1**
 
