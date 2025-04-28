@@ -1,0 +1,46 @@
+.book-item {
+    padding: 1rem;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.book-item__link {
+    text-decoration: none;
+    color: black;
+}
+
+.book-item__title {
+    text-align: center;
+    margin-bottom: .5rem;
+}
+
+.book-item__author {
+    margin-bottom: .5rem;
+    text-align: center;
+}
+
+.book-item__description {
+    margin-bottom: .5rem;
+    line-height: 1.2rem;
+}
+
+.book-item__btn-controller {
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.book-item__btn {
+    flex: 3;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.book-item__balance {
+    flex: 1;
+    padding: 1rem;
+}

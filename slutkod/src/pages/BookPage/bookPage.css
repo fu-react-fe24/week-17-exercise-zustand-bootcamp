@@ -1,0 +1,15 @@
+.book-page {
+    padding: 1rem;
+}
+
+.book-details {
+    padding: 1rem;
+    background-color: blanchedalmond;
+    display: flex;
+    gap: .5rem;
+    flex-direction: column;
+}
+
+.book-details__title, .book-details__author {
+    text-align: center;
+}

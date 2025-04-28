@@ -1,0 +1,11 @@
+.cart-page {
+    padding: 1rem;
+}
+
+.cart-list {
+    padding: 1rem;
+    background-color: blanchedalmond;
+    display: flex;
+    gap: .5rem;
+    flex-direction: column;
+}
