@@ -23,13 +23,11 @@ function AuthPage() {
           <LoginForm
             userList={userList} 
             setActiveForm={setActiveForm}
-            // handleLogin={handleLogin}
           /> : 
           <RegisterForm
             userList={userList}
             setUserList={setUserList}
             setActiveForm={setActiveForm}
-            // handleRegister={handleRegister}
           />
         }
     </section>
