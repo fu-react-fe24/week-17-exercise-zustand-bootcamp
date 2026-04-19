@@ -6,7 +6,7 @@ Försök att själv återskapa counter-koden från föreläsningen.
 
 **Steg 1**
 
-Skapa en applikation som läser in två olika komponenter: en vy där värdet för din counter visas, samt en kontroll där du kan öka, minska, samt nollställa din counter.
+Skapa en applikation som läser in två olika komponenter: en vy där värdet för din counter visas, samt en kontroll där du kan öka, minska, samt nollställa din counter. **Levelup!**, eftersom du inte längre behöver skicka några props till dina sidor kanske du vill skapa en egen fil för din router. och importera den till din `App.jsx/main.jsx`.
 
 **Steg 2**
 
